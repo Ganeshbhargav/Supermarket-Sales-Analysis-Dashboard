@@ -100,9 +100,8 @@ The dataset contains supermarket transaction data, including:
 
 ## 📷 Dashboard Preview
 
-```
-images/Supermarket-Sales-Analysis-Dashboard.png
-```
+![Supermarket Sales Analysis Dashboard](images/Supermarket-Sales-Analysis-Dashboard.png)
+
 
 ---
 
