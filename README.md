@@ -100,12 +100,8 @@ The dataset contains supermarket transaction data, including:
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
-
-Example:
-
 ```
-images/dashboard.png
+images/Supermarket-Sales-Analysis-Dashboard.png
 ```
 
 ---
@@ -137,13 +133,3 @@ Supermarket-Sales-Dashboard/
 * Data Visualization
 * Storytelling with Data
 
----
-
-## 📬 Contact
-
-**Ganesh Bhargav**
-
-* LinkedIn: *(Add your LinkedIn profile)*
-* GitHub: *(Add your GitHub profile)*
-
-If you found this project useful, feel free to ⭐ star the repository.
